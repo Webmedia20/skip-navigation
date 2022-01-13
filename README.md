@@ -1,8 +1,8 @@
 # skip navigation (template)
 
-![https://badgen.net/badge/status/experimental/orange](https://github.com/Webmedia20/skip-navigation/pulls)
-
 this is a template for an (pure) css based skip content link
+
+![https://github.com/Webmedia20/skip-navigation/pulls](https://badgen.net/badge/status/experimental/orange)
 
 ### Available translations
 
